@@ -9,7 +9,6 @@ CS Graduate. I like to code.
 &nbsp;&nbsp;&nbsp;
 ![frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=111&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square)
-![nextjs](https://img.shields.io/static/v1?logo=next.js&label=&message=next.js&color=36465D&logoColor=AAA&style=flat-square)
 ![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=node.js&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
