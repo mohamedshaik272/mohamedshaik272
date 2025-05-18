@@ -16,11 +16,10 @@
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
 
-
 ### Projects
-- [WALL-E](https://github.com/mohamedshaik272/WALL-E) (PatriotHacks 2024 Winner)
-- [Peekabot](https://github.com/mohamedshaik272/Peekabot) (HackOverflow 2024 Winner)
-
+- [WALL-E](https://github.com/mohamedshaik272/WALL-E) / PatriotHacks 2024 Winner
+- [Peekabot](https://github.com/mohamedshaik272/Peekabot) / HackOverflow 2024 Winner
+- [Rabbit.Health](https://www.rabbit.health) / Personalized Parkinson's care treatment
 
 ### Connect
 [LinkedIn](https://linkedin.com/in/mohamedshaik272) | [Email](mailto:mohamedshaik272@gmail.com)
