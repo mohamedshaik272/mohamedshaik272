@@ -1,12 +1,26 @@
 # Mohamed Shaik
 CS Graduate. I like to code.
 
-### Tech Stack
-<img src="https://img.shields.io/badge/-Python-3d444d?style=flat-square&logo=Python&logoColor=white" alt="Python" height="22"/> <img src="https://img.shields.io/badge/-Java-3d444d?style=flat-square&logo=Java&logoColor=white" alt="Java" height="22"/> <img src="https://img.shields.io/badge/-C++-3d444d?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="22"/> <img src="https://img.shields.io/badge/-C%23-3d444d?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" height="22"/> <img src="https://img.shields.io/badge/-JavaScript-3d444d?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" height="22"/> <img src="https://img.shields.io/badge/-SQL-3d444d?style=flat-square&logo=MySQL&logoColor=white" alt="SQL" height="22"/> <img src="https://img.shields.io/badge/-R-3d444d?style=flat-square&logo=R&logoColor=white" alt="R" height="22"/> <img src="https://img.shields.io/badge/-HTML/CSS-3d444d?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" height="22"/>
+___
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
+![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=c%2B%2B&color=36465D&logoColor=AAA&style=flat-square)
+![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=c%23&color=36465D&logoColor=AAA&style=flat-square)
+![r](https://img.shields.io/static/v1?logo=r&label=&message=r&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=111&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square)
+![flask](https://img.shields.io/static/v1?logo=flask&label=&message=flask&color=36465D&logoColor=AAA&style=flat-square)
+![nextjs](https://img.shields.io/static/v1?logo=next.js&label=&message=next.js&color=36465D&logoColor=AAA&style=flat-square)
+![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=node.js&color=36465D&logoColor=AAA&style=flat-square)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
 
-<img src="https://img.shields.io/badge/-React-3d444d?style=flat-square&logo=React&logoColor=white" alt="React" height="22"/> <img src="https://img.shields.io/badge/-Flask-3d444d?style=flat-square&logo=Flask&logoColor=white" alt="Flask" height="22"/> <img src="https://img.shields.io/badge/-Next.js-3d444d?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js" height="22"/> <img src="https://img.shields.io/badge/-Node.js-3d444d?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="22"/> <img src="https://img.shields.io/badge/-JUnit-3d444d?style=flat-square&logo=JUnit&logoColor=white" alt="JUnit" height="22"/> <img src="https://img.shields.io/badge/-PyTorch-3d444d?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" height="22"/> <img src="https://img.shields.io/badge/-NumPy-3d444d?style=flat-square&logo=NumPy&logoColor=white" alt="NumPy" height="22"/> <img src="https://img.shields.io/badge/-OpenCV-3d444d?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" height="22"/> <img src="https://img.shields.io/badge/-Pandas-3d444d?style=flat-square&logo=Pandas&logoColor=white" alt="Pandas" height="22"/> <img src="https://img.shields.io/badge/-TensorFlow-3d444d?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" height="22"/>
-
-<img src="https://img.shields.io/badge/-Git-3d444d?style=flat-square&logo=Git&logoColor=white" alt="Git" height="22"/> <img src="https://img.shields.io/badge/-Docker-3d444d?style=flat-square&logo=Docker&logoColor=white" alt="Docker" height="22"/> <img src="https://img.shields.io/badge/-Linux-3d444d?style=flat-square&logo=Linux&logoColor=white" alt="Linux" height="22"/> <img src="https://img.shields.io/badge/-AWS-3d444d?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS" height="22"/> <img src="https://img.shields.io/badge/-Azure-3d444d?style=flat-square&logo=Microsoft-Azure&logoColor=white" alt="Azure" height="22"/>
 
 ### Hackathon Projects
 - [WALL-E](https://github.com/mohamedshaik272/WALL-E) (PatriotHacks 2024 Winner)
