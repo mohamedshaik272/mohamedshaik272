@@ -1,6 +1,3 @@
-
-I sometimes code.
-
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
 ![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
@@ -15,12 +12,8 @@ I sometimes code.
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
-
-
 ### Projects
-- [WALL-E](https://github.com/mohamedshaik272/WALL-E) (PatriotHacks 2024 Winner)
-- [Peekabot](https://github.com/mohamedshaik272/Peekabot) (HackOverflow 2024 Winner)
-
-
+- <a href="https://github.com/mohamedshaik272/WALL-E" style="color: #36465D;">WALL-E</a> (PatriotHacks 2024 Winner)
+- <a href="https://github.com/mohamedshaik272/Peekabot" style="color: #36465D;">Peekabot</a> (HackOverflow 2024 Winner)
 ### Connect
-[LinkedIn](https://linkedin.com/in/mohamedshaik) | [Email](mailto:mohamedshaik272@gmail.com)
+<a href="https://linkedin.com/in/mohamedshaik" style="color: #36465D;">LinkedIn</a> | <a href="mailto:mohamedshaik272@gmail.com" style="color: #36465D;">Email</a>
