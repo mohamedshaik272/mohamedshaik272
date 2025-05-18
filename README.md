@@ -1,5 +1,5 @@
 
-CS Graduate. I like to code.
+I sometimes code.
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
@@ -17,10 +17,10 @@ CS Graduate. I like to code.
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
 
 
-### Hackathon Projects
+### Projects
 - [WALL-E](https://github.com/mohamedshaik272/WALL-E) (PatriotHacks 2024 Winner)
 - [Peekabot](https://github.com/mohamedshaik272/Peekabot) (HackOverflow 2024 Winner)
-- [Environmental Safety Navigation](https://github.com/mohamedshaik272/Environmental-Safety-Navigation) (PatriotHacks 2023 Winner)
+
 
 ### Connect
 [LinkedIn](https://linkedin.com/in/mohamedshaik) | [Email](mailto:mohamedshaik272@gmail.com)
