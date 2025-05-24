@@ -1,5 +1,5 @@
 
-### I sometimes code.
+### CS Major Graduate.
 
 ### Projects
 - [WALL-E](https://github.com/mohamedshaik272/WALL-E) / PatriotHacks 2024 Winner
