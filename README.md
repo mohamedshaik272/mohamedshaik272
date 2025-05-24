@@ -1,6 +1,4 @@
 
-### CS Major Graduate.
-
 ### Projects
 - [WALL-E](https://github.com/mohamedshaik272/WALL-E) / PatriotHacks 2024 Winner
 - [Peekabot](https://github.com/mohamedshaik272/Peekabot) / HackOverflow 2024 Winner
